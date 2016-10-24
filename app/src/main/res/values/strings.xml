@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Parking Finder</string>
+    <string name="title_activity_maps">Parking Finder</string>
+    <string name="title_activity_car_park">CarParkActivity</string>
+
+
+    <string name="carpark_name">Car Park Name : </string>
+    <string name="carpark_address">Car Park Address : </string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="gps_network_not_enabled">Enable location Setting</string>
+    <string name="open_location_settings">Location Settings</string>
+    <string name="Cancel">Cancel</string>
+
+</resources>
